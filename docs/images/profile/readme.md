@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cuponizado.com" target="_blank"><img src="https://github.com/cuponizado/.github/blob/main/docs/images/cuponizado.jpeg?raw=true" ></a></p>
+<p align="center"><a href="https://cuponizado.com" target="_blank"><img src="https://github.com/cuponizado/.github/blob/master/docs/images/cuponizado.jpeg?raw=true" ></a></p>
 
 ## About Cuponizado
 
